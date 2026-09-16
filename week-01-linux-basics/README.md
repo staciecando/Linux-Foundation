@@ -33,6 +33,9 @@ mkdir linux-practice
 cd linux-practice
 touch test.txt
 ls -l
+
+
+
 -----------------------
 The Linux kernel manages communication between applications and hardware, as well as system resources such as processes, memory, filesystems, and networking.
 
